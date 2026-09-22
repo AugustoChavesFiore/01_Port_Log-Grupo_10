@@ -1,5 +1,11 @@
 # Changelog
 
+[Ejercicio 3]
+- Normalización de fechas, horas, matrículas y muelles
+- Cálculo de la duración de estadía y del exceso de velocidad
+- Eliminación de nulos críticos, valores fuera de rango y outliers por IQR
+- Filtrado de infracciones y exportación del dataset limpio y del resumen
+
 [Ejercicio 2]
 - Descarga del dataset raw en port_log/data/raw
 - Análisis exploratorio inicial: muestra, tipos de datos y valores nulos
