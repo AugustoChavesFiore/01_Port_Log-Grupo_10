@@ -1,5 +1,10 @@
 # Changelog
 
+[Ejercicio 7]
+- Redacción de la conclusión del Sprint 1
+- Evaluación de la calidad del dataset heredado y de los patrones de infracción
+- Propuesta de mejoras para el proceso de captura de datos en el puerto
+
 [Ejercicio 6]
 - Cálculo de los porcentajes de infracciones con fecha y hora inválidas
 - Identificación del tipo de carga y el origen más frecuentes entre infractores
