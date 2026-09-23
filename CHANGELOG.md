@@ -1,5 +1,10 @@
 # Changelog
 
+[Ejercicio 6]
+- Cálculo de los porcentajes de infracciones con fecha y hora inválidas
+- Identificación del tipo de carga y el origen más frecuentes entre infractores
+- Cálculo de la duración promedio de estadía de los buques infractores
+
 [Ejercicio 5]
 - Generación de los seis gráficos del análisis de infracciones
 - Exportación de los gráficos en formato .jpg a data/interim/plots
