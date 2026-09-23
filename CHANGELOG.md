@@ -1,5 +1,10 @@
 # Changelog
 
+[Ejercicio 4]
+- Definición de la clase PortAnalyzer con encapsulamiento del DataFrame limpio
+- Implementación de los métodos de ranking, agrupación por turno, muelle y tipo de carga
+- Cálculo del exceso de velocidad promedio con y sin tolerancia
+
 [Ejercicio 3]
 - Normalización de fechas, horas, matrículas y muelles
 - Cálculo de la duración de estadía y del exceso de velocidad
