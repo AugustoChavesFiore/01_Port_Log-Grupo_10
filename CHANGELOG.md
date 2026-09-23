@@ -1,5 +1,9 @@
 # Changelog
 
+[Ejercicio 5]
+- Generación de los seis gráficos del análisis de infracciones
+- Exportación de los gráficos en formato .jpg a data/interim/plots
+
 [Ejercicio 4]
 - Definición de la clase PortAnalyzer con encapsulamiento del DataFrame limpio
 - Implementación de los métodos de ranking, agrupación por turno, muelle y tipo de carga
