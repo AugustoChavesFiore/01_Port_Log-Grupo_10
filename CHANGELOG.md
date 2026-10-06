@@ -1,5 +1,11 @@
 # Changelog
 
+[Sprint 2 - Ejercicio 1]
+- Creación de la rama Sprint_2 a partir de Sprint_1
+- Descarga del dataset de 100 imágenes en port_log/data/raw/imgs
+- Verificación de los archivos heredados del Sprint 1
+- Exclusión de las imágenes derivadas mediante .gitignore
+
 [Ejercicio 7]
 - Redacción de la conclusión del Sprint 1
 - Evaluación de la calidad del dataset heredado y de los patrones de infracción
