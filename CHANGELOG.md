@@ -1,5 +1,11 @@
 # Changelog
 
+[Sprint 2 - Ejercicio 4]
+- Extracción de matrículas por OCR sobre las 100 imágenes
+- Normalización alfanumérica y cálculo del ratio de coincidencia
+- Asignación de cada imagen a una infracción con 75% o más de coincidencia
+- Exportación del dataset cruzado a data/processed/port_movements_image.csv
+
 [Sprint 2 - Ejercicio 3]
 - Conversión de las imágenes a escala de grises
 - Ecualización de histograma para mejorar el contraste
