@@ -1,5 +1,11 @@
 # Changelog
 
+[Sprint 2 - Ejercicio 2]
+- Inventario de las 100 imágenes con su tamaño en KB
+- Separación en grupos plates y completes por relación de aspecto
+- Construcción de group_images.json con los metadatos de cada imagen
+- Cálculo de métricas promedio y función mostrar_muestra
+
 [Sprint 2 - Ejercicio 1]
 - Creación de la rama Sprint_2 a partir de Sprint_1
 - Descarga del dataset de 100 imágenes en port_log/data/raw/imgs
