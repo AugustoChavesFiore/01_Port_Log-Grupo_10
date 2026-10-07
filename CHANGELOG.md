@@ -1,5 +1,10 @@
 # Changelog
 
+[Sprint 2 - Ejercicio 6]
+- Diagnóstico de las imágenes sin match y medición de las condiciones de captura
+- Redacción de la conclusión sobre la relación entre datos tabulares e imágenes
+- Propuestas de mejora para el sistema de captura y el algoritmo de matching
+
 [Sprint 2 - Ejercicio 5]
 - Cálculo de infracciones con y sin evidencia visual asociada
 - Conteo de imágenes sin match y ratio promedio de coincidencia
