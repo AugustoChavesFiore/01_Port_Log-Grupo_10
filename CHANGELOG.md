@@ -1,5 +1,11 @@
 # Changelog
 
+[Sprint 2 - Ejercicio 3]
+- Conversión de las imágenes a escala de grises
+- Ecualización de histograma para mejorar el contraste
+- Suavizado con blur gaussiano de kernel 5x5
+- Detección de bordes con Canny sobre las imágenes suavizadas
+
 [Sprint 2 - Ejercicio 2]
 - Inventario de las 100 imágenes con su tamaño en KB
 - Separación en grupos plates y completes por relación de aspecto
