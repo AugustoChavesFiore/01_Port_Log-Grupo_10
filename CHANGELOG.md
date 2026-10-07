@@ -1,5 +1,11 @@
 # Changelog
 
+[Sprint 2 - Ejercicio 5]
+- Cálculo de infracciones con y sin evidencia visual asociada
+- Conteo de imágenes sin match y ratio promedio de coincidencia
+- Comparación de la tasa de match entre los grupos plates y completes
+- Detección de infracciones pendientes sin evidencia visual
+
 [Sprint 2 - Ejercicio 4]
 - Extracción de matrículas por OCR sobre las 100 imágenes
 - Normalización alfanumérica y cálculo del ratio de coincidencia
