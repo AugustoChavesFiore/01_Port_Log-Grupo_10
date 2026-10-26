@@ -1,5 +1,10 @@
 # Changelog
 
+[Sprint 3 - Ejercicio 4]
+- Implementación de los modelos relacionales con SQLAlchemy
+- Definición de claves primarias, foráneas y relaciones entre entidades
+- Implementación de procesar_fila_csv y sus funciones de conversión
+
 [Sprint 3 - Ejercicio 3]
 - Diseño del modelo lógico de Buque, Movimiento, Radar y Evidencia
 - Definición de atributos, claves y cardinalidades entre las entidades
