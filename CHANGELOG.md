@@ -1,5 +1,10 @@
 # Changelog
 
+[Sprint 3 - Ejercicio 9]
+- Redacción de la conclusión integradora de los tres sprints
+- Evaluación del aporte de la base vectorial frente al OCR
+- Identificación de limitaciones y propuestas para producción
+
 [Sprint 3 - Ejercicio 8]
 - Implementación de buscar_buque_por_imagen con consulta a la base vectorial
 - Recuperación de los datos del buque, sus movimientos y sus evidencias
