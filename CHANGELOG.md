@@ -1,5 +1,10 @@
 # Changelog
 
+[Sprint 3 - Ejercicio 7]
+- Creación de la base vectorial buque_vectorial con ChromaDB
+- Generación de embeddings con OpenCLIP sobre las imágenes complete
+- Selección de la imagen de mayor ratio de coincidencia por buque
+
 [Sprint 3 - Ejercicio 6]
 - Consultas de ranking de buques y movimientos sin evidencia
 - Consulta de radares activos con la cantidad de muelles distintos

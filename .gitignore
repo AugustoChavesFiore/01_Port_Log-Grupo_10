@@ -1,3 +1,4 @@
 # Imágenes derivadas del preprocesamiento (regenerables por el notebook)
 port_log/data/interim/imgs/
 port_log/data/processed/transito_portuario.db
+port_log/data/processed/chroma/
