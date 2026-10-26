@@ -1,5 +1,10 @@
 # Changelog
 
+[Sprint 3 - Ejercicio 3]
+- Diseño del modelo lógico de Buque, Movimiento, Radar y Evidencia
+- Definición de atributos, claves y cardinalidades entre las entidades
+- Justificación del muelle como atributo del movimiento y no del radar
+
 [Sprint 3 - Ejercicio 2]
 - Inicialización de DVC con Supabase como repositorio S3 remoto
 - Migración de las imágenes de port_log/data/raw/imgs a DVC
