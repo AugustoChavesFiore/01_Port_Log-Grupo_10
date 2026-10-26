@@ -1,5 +1,11 @@
 # Changelog
 
+[Sprint 3 - Ejercicio 1]
+- Creación de la rama Sprint_3 a partir de Sprint_2
+- Reorganización de las imágenes en subcarpetas plates y completes
+- Verificación de los datasets heredados de los sprints anteriores
+- Actualización del README al Sprint 3
+
 [Sprint 2 - Ejercicio 6]
 - Diagnóstico de las imágenes sin match y medición de las condiciones de captura
 - Redacción de la conclusión sobre la relación entre datos tabulares e imágenes
