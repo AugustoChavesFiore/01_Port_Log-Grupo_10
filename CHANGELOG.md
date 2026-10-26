@@ -1,5 +1,10 @@
 # Changelog
 
+[Sprint 3 - Ejercicio 5]
+- Creación de la base de datos transito_portuario con SQLAlchemy
+- Migración de los movimientos desde port_movements_image.csv
+- Validación de los registros insertados en cada tabla
+
 [Sprint 3 - Ejercicio 4]
 - Implementación de los modelos relacionales con SQLAlchemy
 - Definición de claves primarias, foráneas y relaciones entre entidades
