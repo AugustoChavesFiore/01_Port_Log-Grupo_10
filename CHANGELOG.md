@@ -1,5 +1,11 @@
 # Changelog
 
+[Sprint 3 - Ejercicio 6]
+- Consultas de ranking de buques y movimientos sin evidencia
+- Consulta de radares activos con la cantidad de muelles distintos
+- Consultas de reincidencia por período y exceso promedio por muelle
+- Cálculo de la cobertura de evidencia visual sobre el total
+
 [Sprint 3 - Ejercicio 5]
 - Creación de la base de datos transito_portuario con SQLAlchemy
 - Migración de los movimientos desde port_movements_image.csv
