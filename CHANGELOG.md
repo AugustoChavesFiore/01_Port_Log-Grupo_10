@@ -3,6 +3,7 @@
 [Sprint 3 - Ejercicio 2]
 - Inicialización de DVC con Supabase como repositorio S3 remoto
 - Migración de las imágenes de port_log/data/raw/imgs a DVC
+- Migración de los gráficos de port_log/data/interim/plots a DVC
 
 [Sprint 3 - Ejercicio 1]
 - Creación de la rama Sprint_3 a partir de Sprint_2
