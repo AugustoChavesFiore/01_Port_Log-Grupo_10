@@ -1,5 +1,10 @@
 # Changelog
 
+[Sprint 3 - Ejercicio 8]
+- Implementación de buscar_buque_por_imagen con consulta a la base vectorial
+- Recuperación de los datos del buque, sus movimientos y sus evidencias
+- Documentación de las limitaciones de la búsqueda con imágenes plate
+
 [Sprint 3 - Ejercicio 7]
 - Creación de la base vectorial buque_vectorial con ChromaDB
 - Generación de embeddings con OpenCLIP sobre las imágenes complete
